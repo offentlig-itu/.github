@@ -1,6 +1,6 @@
 # IT-utviklerfaget - Lærlinger i offentlig sektor
 
-TBD
+Her vil du finne ressurser for lærlinger i IT-utviklerfaget i offentlig sektor.
 
 
 <!--
